@@ -26,4 +26,12 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 ![U_net](https://user-images.githubusercontent.com/120099096/206864660-8602de60-5f69-4ea8-8673-3921dd82a544.png)
 
+<br /><br />
+
+SONUÇLAR
+
+Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
+
+<br />
+![image](https://user-images.githubusercontent.com/120099096/206864830-41f1e1fd-42c9-418f-b52e-cc3aaebd595a.png)
 
