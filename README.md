@@ -23,7 +23,8 @@ Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere 
 U-Net modelinden bahsetmek gerekirse; oluşturulan U-Net modeli, Sıkışma ve Genişleme olmak üzere iki kısımdan oluşmaktadır. Sıkışma yolunda boyut azaltma işlemi yapılırken, Genişleme yolunda boyut arttırma işlemi gerçekleştirilmektedir. Belirtilen bu iki yoldaki her katman birden fazla Evrişim(Convolutional) katmanı ve bir adet Ortaklama(Pooling) katmanından oluşmaktadır. Pooling katmanında Maksimum Pooling yöntemi uygulanmaktadır. Modelin ikinci yarısında yani Genişleme yolunda boyut arttırma işlemi gerçekleştirileceği için Ters Evrişim katmanları bulunmaktadır. Modelde yer alan Evrişim katmanlarını ReLU adında bir aktivasyon fonksiyonu aktive etmektedir. Bu fonksiyon modelin negatif değerleri öğrenmesini engellemektedir.
 
 U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı ve avantajı ise özellik haritalarının(Feature Maps) sıkışma yolundaki her katmandan genişleme yolundaki her katmana yatay bir şekilde bağlantı kurularak aktarılmasıdır. Bu işleme Copy and Corp denilmektedir. Bu işlemle, boyut azaltma işlemi ile kaybedilen özellikler Genişleme yolunda tekrar kazanılmaktadır. U-Net mimarisinde özellikler, özellik haritalarının bağlantılı bir şekilde kopyalanması sayesinde kaybedilmemektedir.
-
+ <br />
+ 
 ![U_net](https://user-images.githubusercontent.com/120099096/206864660-8602de60-5f69-4ea8-8673-3921dd82a544.png)
 
 <br /><br />
