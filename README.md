@@ -10,7 +10,7 @@ Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok 
 <br /><br />
 ### VERİ SETİ (BraTS 2019)
 
-Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için 'Flair', T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
+Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için ' Flair ', T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
 
 Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere her biri için segmentasyon yapan toplam üç model kullanılmıştır. Her bir model eğitimi, görüntülerin belirli kesit aralığı alınarak 7770 adet veri ile gerçekleştirilmiştir. Bu modellerin tahminleri birleştirilerek sonuç görseli elde edilmiştir.
 
