@@ -3,7 +3,7 @@
 <p>Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok zaman alan bir yöntemdir ve performans büyük ölçüde hekimin deneyimine bağlıdır. Bu yüzden derin öğrenme yöntemleri kullanılarak MRI görüntülerinden beyin tümör segmentasyonunun otomatik olarak yapılması tümörün verimli bir şekilde belirlenmesini sağlamaktadır. Bu çalışmada beyin tümör segmentasyonu için CNN tabanlı bir U-Net modeli kullanılmıştır. </p>
 
 
-
+<br /><br />
 VERİ SETİ (BraTS 2019)
 
 Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için Flair, T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
@@ -15,7 +15,7 @@ Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere 
 ![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png)
 ![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png)
 
-
+<br /><br />
 
 U-NET
 
