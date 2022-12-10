@@ -15,7 +15,7 @@ Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere 
 Veri seti içerisinde her bir veri içerisinde bulunan dosyalara ait kesitler:  <br /> <br />
 
 
-![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png)
+![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png) <br /><br />
 ![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png)
 
 <br /><br />
@@ -38,9 +38,9 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 ![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)  <br /> <br /> <br /> <br />
 
 
-### SONUÇLAR
+### SONUÇLAR <br /><br />
 
-#### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br />
+#### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br /> <br /><br />
 
 ![1](https://user-images.githubusercontent.com/120099096/206865925-4fb76413-acd4-427d-8486-f27df6375cbe.png) <br /><br />
 
@@ -50,7 +50,7 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 ![1000_Inferno](https://user-images.githubusercontent.com/120099096/206866041-91e8af00-e833-444a-b428-06e33d3500d4.png) <br /><br /><br /><br />
 
-#### 2. Aşama - Farklı Alanlar İle Tümör Segmentasyonu Prediction <br /><br />
+#### 2. Aşama - Farklı Alanlar İle Tümör Segmentasyonu Prediction <br /><br /> <br /><br />
 
 Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir. <br /><br />
 <br /><br />
