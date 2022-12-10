@@ -23,5 +23,5 @@ Sections of the files in each data in the data set: <br /> <br />
 
 To talk about the U-Net model; The created U-Net model consists of two parts: Compression and Expansion.
 
-## To Be Continued
+### To Be Continued...
 
