@@ -3,7 +3,7 @@
 Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok zaman alan bir yöntemdir ve performans büyük ölçüde hekimin deneyimine bağlıdır. Bu yüzden derin öğrenme yöntemleri kullanılarak MRI görüntülerinden beyin tümör segmentasyonunun otomatik olarak yapılması tümörün verimli bir şekilde belirlenmesini sağlamaktadır. Bu çalışmada beyin tümör segmentasyonu için CNN tabanlı bir U-Net modeli kullanılmıştır.
 
 #### Projenin ilk aşamasında tam tümör segmentasyonu yapan bir model, ikinci aşamasında ise tümörün farklı alanları için segmentasyon yapan başka bir model başarılı bir şekilde oluşturulmuştur. Son olarak tahmin görselleri birleştirilerek elde edilen sonuçlar karşılaştırılmıştır. <br /><br />
-Eğitim verilerinde bulunan segmentasyon görüntülerinde bulunan tümörün farklı alanları segmentasyon görüntüsünden ayrıştırılarak gözlemlenmiştir. Tümörün bu farklı alanları segmentasyon görüntüleri üzerinde sayısal değerlere sahiptir. Bu sayısal değerler Ödem için 1, Genişleyen Tümör için 2 ve Nekroz için 4'tür.
+Eğitim verilerinde bulunan segmentasyon görüntülerinde bulunan tümörün farklı alanları segmentasyon görüntüsünden ayrıştırılarak gözlemlenmiştir. Tümörün bu farklı alanları segmentasyon görüntüleri üzerinde sayısal değerlere sahiptir. Bu sayısal değerler Ödem için 1, Genişleyen Tümör için 2 ve Nekroz için 4'tür. <br /><br />
 
 ![Segmentasyon(Ödem,genişleyen,nekroz)](https://user-images.githubusercontent.com/120099096/206866820-5f2ca28d-fa2c-4af6-ae20-e07099e971fe.png)
 
