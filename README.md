@@ -4,7 +4,7 @@
 
 
 <br /><br />
-##VERİ SETİ (BraTS 2019)
+## VERİ SETİ (BraTS 2019)
 
 Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için Flair, T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
 
