@@ -66,6 +66,10 @@ Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın son
 
 ![1772_test](https://user-images.githubusercontent.com/120099096/206865363-c1be903c-c719-48cd-a5f7-46402b8c71c4.png) <br /><br /> <br /><br /><br /><br />
 
+Sonuçlar incelendiğinde Dice Coef ölçütüne göre tam tümör için eğitim ve doğrulama verilerinde
+%95.8 ve %85.7 başarı oranı, ödemsiz tümör alanı için %96.9 ve %80.22 başarı oranı, genişleyen tümör
+alanı için %93.2 ve %78.4 başarı oranına ulaşılmıştır. <br /><br />
+
 ![AccuracyTable](https://user-images.githubusercontent.com/120099096/206866196-4b5068d1-47e8-4309-85de-ff124c34f446.png)
 
 
