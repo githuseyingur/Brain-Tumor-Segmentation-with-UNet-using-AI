@@ -4,7 +4,7 @@ Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok 
 
 #### Projenin ilk aşamasında tam tümör segmentasyonu yapan bir model, ikinci aşamasında ise tümörün farklı alanları için segmentasyon yapan başka bir model başarılı bir şekilde oluşturulmuştur. Son olarak tahmin görselleri birleştirilerek elde edilen sonuçlar karşılaştırılmıştır.
 
-<br /><br /> 
+<br /><br /> <br /><br />
 ### VERİ SETİ (BraTS 2019)
 
 Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için Flair, T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
@@ -15,7 +15,7 @@ Veri seti içerisinde her bir veri içerisinde bulunan dosyalara ait kesitler:  
 
 
 ![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png) <br /><br />
-![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png) <br /><br /> 
+![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png) <br /><br /> <br /><br />
 
 
 
