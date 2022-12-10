@@ -37,11 +37,11 @@ Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın son
  
 ![Results](https://user-images.githubusercontent.com/120099096/206864960-0b4503ad-65f4-46f3-a70f-852eaf9a87bd.png)
 
-Sonuç 1: <br /><br />
+Sonuç 2: <br /><br />
 
 ![Results2](https://user-images.githubusercontent.com/120099096/206865220-81f9e9a0-e616-40aa-9438-0375a4e18679.png)
 
-Sonuç 1: <br /><br />
+Sonuç 3: <br /><br />
 
 ![1772_test](https://user-images.githubusercontent.com/120099096/206865363-c1be903c-c719-48cd-a5f7-46402b8c71c4.png)
 
