@@ -4,7 +4,6 @@ Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok 
 
 #### Projenin ilk aşamasında tam tümör segmentasyonu yapan bir model, ikinci aşamasında ise tümörün farklı alanları için segmentasyon yapan başka bir model başarılı bir şekilde oluşturulmuştur. Son olarak tahmin görselleri birleştirilerek elde edilen sonuçlar karşılaştırılmıştır.
 
-
 <br /><br /> <br /><br />
 ### VERİ SETİ (BraTS 2019)
 
