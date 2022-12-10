@@ -31,6 +31,13 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 <br /><br />
 
+![birrr](https://user-images.githubusercontent.com/120099096/206866267-d3500599-80b6-47db-9668-bf13cc30745c.png)
+
+<br /><br />
+
+![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)
+
+
 ### SONUÇLAR
 
 #### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br />
