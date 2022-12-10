@@ -36,7 +36,7 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 #### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br />
 <br /> 
 
-![1](https://user-images.githubusercontent.com/120099096/206865925-4fb76413-acd4-427d-8486-f27df6375cbe.png)
+![1](https://user-images.githubusercontent.com/120099096/206865925-4fb76413-acd4-427d-8486-f27df6375cbe.png) <br />
 
 
 Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
