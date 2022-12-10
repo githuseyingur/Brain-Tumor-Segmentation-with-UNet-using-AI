@@ -4,7 +4,7 @@ Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok 
 
 #### Projenin ilk aşamasında tam tümör segmentasyonu yapan bir model, ikinci aşamasında ise tümörün farklı alanları için segmentasyon yapan başka bir model başarılı bir şekilde oluşturulmuştur. Son olarak tahmin görselleri birleştirilerek elde edilen sonuçlar karşılaştırılmıştır.
 
-<br /><br /> <br /><br />
+<br /><br /> 
 ### VERİ SETİ (BraTS 2019)
 
 Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri içermektedir. Her bir veri aynı görüntü için Flair, T1, T1c ve T2 olmak üzere dört farklı tür görüntüden oluşmaktadır. Ek olarak bir adet de orijinal segmentasyon görüntüsü yer almaktadır.
@@ -15,7 +15,7 @@ Veri seti içerisinde her bir veri içerisinde bulunan dosyalara ait kesitler:  
 
 
 ![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png) <br /><br />
-![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png) <br /><br /> <br /><br />
+![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png) <br /><br /> 
 
 
 
@@ -34,10 +34,10 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 <br /><br />
 
-![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)  <br /> <br /> <br /> <br /> 
+![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)  <br /> <br /> 
 
 
-### SONUÇLAR <br /><br /> <br /><br />
+### SONUÇLAR <br /><br /> 
 
 #### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br /> <br /><br />
 
@@ -47,7 +47,7 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 ![4](https://user-images.githubusercontent.com/120099096/206866037-e02e3b05-db26-40e8-b687-7b318f914143.png) <br /><br />
 
-![1000_Inferno](https://user-images.githubusercontent.com/120099096/206866041-91e8af00-e833-444a-b428-06e33d3500d4.png) <br /><br /><br /><br /> <br /><br />
+![1000_Inferno](https://user-images.githubusercontent.com/120099096/206866041-91e8af00-e833-444a-b428-06e33d3500d4.png) <br /><br /><br /><br /> 
 
 #### 2. Aşama - Farklı Alanlar İle Tümör Segmentasyonu Prediction <br /><br /> <br /><br />
 
