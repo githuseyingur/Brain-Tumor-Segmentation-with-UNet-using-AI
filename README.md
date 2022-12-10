@@ -32,7 +32,7 @@ SONUÇLAR
 
 Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
 
-<br /><br />
+ <br /><br /><br />
  
 
 ![Results](https://user-images.githubusercontent.com/120099096/206864960-0b4503ad-65f4-46f3-a70f-852eaf9a87bd.png)
