@@ -10,7 +10,8 @@ Veri seti, 335 adet eğitim ve 127 adet doğrulama olmak üzere toplam 462 veri 
 
 Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere her biri için segmentasyon yapan toplam üç model kullanılmıştır. Her bir model eğitimi, görüntülerin belirli kesit aralığı alınarak 7770 adet veri ile gerçekleştirilmiştir. Bu modellerin tahminleri birleştirilerek sonuç görseli elde edilmiştir.
 
- Veri seti içerisinde her bir veri içerisinde bulunan dosyalara ait kesitler: <br />
+ Veri seti içerisinde her bir veri içerisinde bulunan dosyalara ait kesitler: 
+ <br />
 
 ![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png)
 ![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png)
