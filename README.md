@@ -18,7 +18,7 @@ Tam tümör, genişleyen tümör alanı ve ödemsiz tümör alanı olmak üzere 
 
 <br /><br />
 
-## U-NET
+### U-NET
 
 U-Net modelinden bahsetmek gerekirse; oluşturulan U-Net modeli, Sıkışma ve Genişleme olmak üzere iki kısımdan oluşmaktadır. Sıkışma yolunda boyut azaltma işlemi yapılırken, Genişleme yolunda boyut arttırma işlemi gerçekleştirilmektedir. Belirtilen bu iki yoldaki her katman birden fazla Evrişim(Convolutional) katmanı ve bir adet Ortaklama(Pooling) katmanından oluşmaktadır. Pooling katmanında Maksimum Pooling yöntemi uygulanmaktadır. Modelin ikinci yarısında yani Genişleme yolunda boyut arttırma işlemi gerçekleştirileceği için Ters Evrişim katmanları bulunmaktadır. Modelde yer alan Evrişim katmanlarını ReLU adında bir aktivasyon fonksiyonu aktive etmektedir. Bu fonksiyon modelin negatif değerleri öğrenmesini engellemektedir.
 
@@ -29,7 +29,7 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 <br /><br />
 
-## SONUÇLAR
+### SONUÇLAR
 
 Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
 
