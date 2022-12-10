@@ -34,25 +34,27 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 ### SONUÇLAR
 
 #### 1. Aşama - Tam Tümör Segmentasyonu Prediction <br /><br />
-<br /> 
 
 ![1](https://user-images.githubusercontent.com/120099096/206865925-4fb76413-acd4-427d-8486-f27df6375cbe.png) <br />
 
+![2](https://user-images.githubusercontent.com/120099096/206866032-d2c7a156-84e2-45af-a7f5-1ec63ddbfbee.png) <br />
 
-Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
+![4](https://user-images.githubusercontent.com/120099096/206866037-e02e3b05-db26-40e8-b687-7b318f914143.png) <br />
 
- <br /><br /><br />
- Sonuç 1: <br /><br />
+![1000_Inferno](https://user-images.githubusercontent.com/120099096/206866041-91e8af00-e833-444a-b428-06e33d3500d4.png) <br />
+
+#### 2. Aşama - Farklı Alanlar İle Tümör Segmentasyonu Prediction <br /><br />
+
+Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir. <br /><br />
+
  
-![Results](https://user-images.githubusercontent.com/120099096/206864960-0b4503ad-65f4-46f3-a70f-852eaf9a87bd.png)
+![Results](https://user-images.githubusercontent.com/120099096/206864960-0b4503ad-65f4-46f3-a70f-852eaf9a87bd.png)  <br />
 
-Sonuç 2: <br /><br />
 
-![Results2](https://user-images.githubusercontent.com/120099096/206865220-81f9e9a0-e616-40aa-9438-0375a4e18679.png)
+![Results2](https://user-images.githubusercontent.com/120099096/206865220-81f9e9a0-e616-40aa-9438-0375a4e18679.png) <br />
 
-Sonuç 3: <br /><br />
 
-![1772_test](https://user-images.githubusercontent.com/120099096/206865363-c1be903c-c719-48cd-a5f7-46402b8c71c4.png)
+![1772_test](https://user-images.githubusercontent.com/120099096/206865363-c1be903c-c719-48cd-a5f7-46402b8c71c4.png) <br />
 
 
 
