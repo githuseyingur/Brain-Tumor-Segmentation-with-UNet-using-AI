@@ -2,6 +2,8 @@
 <br />
 <p>Beyin tümörünün MRI görüntüleri üzerinden manuel segmente edilmesi çok zaman alan bir yöntemdir ve performans büyük ölçüde hekimin deneyimine bağlıdır. Bu yüzden derin öğrenme yöntemleri kullanılarak MRI görüntülerinden beyin tümör segmentasyonunun otomatik olarak yapılması tümörün verimli bir şekilde belirlenmesini sağlamaktadır. Bu çalışmada beyin tümör segmentasyonu için CNN tabanlı bir U-Net modeli kullanılmıştır. </p>
 
+#### Projenin ilk aşamasında tam tümör segmentasyonu yapan bir model, ikinci aşamasında ise tümörün farklı alanları için segmentasyon yapan başka bir model başarılı bir şekilde oluşturulmuştur. Son olarak tahmin görselleri birleştirilerek elde edilen sonuçlar karşılaştırılmıştır.
+
 
 <br /><br />
 ### VERİ SETİ (BraTS 2019)
@@ -30,6 +32,11 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 <br /><br />
 
 ### SONUÇLAR
+
+#### 1. Aşama - Tam Tümör Segmentasyonu Prediction
+
+![1](https://user-images.githubusercontent.com/120099096/206865925-4fb76413-acd4-427d-8486-f27df6375cbe.png)
+
 
 Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın sonuçlar elde edilmiştir. Bir radyolog tarafından segmentasyonu yapılan görüntülerin, saniyeler içerisinde segmentasyonu otomatik olarak gerçekleştirilebilmektedir. Eğitim verileri için %96 ve doğrulama verileri için %82 başarı oranı elde edilmiştir.
 
