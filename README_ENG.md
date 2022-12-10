@@ -1,2 +1,4 @@
 # README IN ENGLİSH
 ### Coming Soon...
+
+# TRANSLATING NOW
