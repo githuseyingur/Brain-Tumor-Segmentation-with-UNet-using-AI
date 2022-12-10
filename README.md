@@ -34,10 +34,9 @@ Sonuçlar incelendiğinde Orijinal Segmentasyon görüntülerine çok yakın son
 
 <br />
 
-![sonuc_1](https://user-images.githubusercontent.com/120099096/206864867-8ce66ed0-60f9-44eb-a495-ca9ef5bd13c9.png)
 
-![sonuc_2](https://user-images.githubusercontent.com/120099096/206864871-879d6426-607a-4f76-9137-1464b45f4dd1.png)
-
+![Results](https://user-images.githubusercontent.com/120099096/206864960-0b4503ad-65f4-46f3-a70f-852eaf9a87bd.png)
+![Results2](https://user-images.githubusercontent.com/120099096/206864961-ff12d0d2-79e7-4e45-9bda-7d73f043cbb4.png)
 ![1772_test](https://user-images.githubusercontent.com/120099096/206864928-c7a8c914-77fa-4eaa-9a26-57f3bf8b9de0.png)
 
 
