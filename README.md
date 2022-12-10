@@ -35,7 +35,7 @@ U-Net modelinin, diğer CNN (Convolutional Neural Network) mimarilerinden farkı
 
 <br /><br />
 
-![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)
+![ikii](https://user-images.githubusercontent.com/120099096/206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7.png)  <br /> <br /> <br /> <br />
 
 
 ### SONUÇLAR
