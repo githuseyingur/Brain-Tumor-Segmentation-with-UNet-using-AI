@@ -21,7 +21,7 @@ Sections of the files in each data in the data set: <br /> <br />
 
 ### U-NET
 
-To talk about the U-Net model; The created U-Net model consists of two parts: Compression and Expansion.
+To talk about the U-Net model; The created U-Net model consists of two parts: Compression and Expansion. Size reduction operation is performed on the compression path, and the size increase operation is performed on the expansion path. Each layer in these two paths consists of more than one Convolution layer and one Pooling layer. Maximum Pooling method is applied in the Pooling layer. 
 
 ### To Be Continued...
 
