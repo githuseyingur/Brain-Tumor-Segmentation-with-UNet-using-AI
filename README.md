@@ -17,8 +17,9 @@ A total of **three models** with segmentation for each were used: **complete tum
 
 Sections of the files in each data in the data set: <br /> <br />
 
-![data_set](https://user-images.githubusercontent.com/120099096/206864407-ca65e05b-06b2-48e1-8076-78ad18dec599.png) <br /><br />
-![data_set2](https://user-images.githubusercontent.com/120099096/206864409-8c3fd7f3-406f-4be5-8fa0-7266b00c31d4.png) <br /><br /> <br /><br />
+![seg](https://user-images.githubusercontent.com/120099096/215536024-1355755c-66cc-49da-9761-dba1fdb84604.png)
+![seg2](https://user-images.githubusercontent.com/120099096/215536066-0c67c1da-b753-475a-ba6a-7f206890da54.png)
+
 
 ### U-NET
 
