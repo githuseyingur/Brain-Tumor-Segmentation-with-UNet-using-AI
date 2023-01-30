@@ -27,6 +27,8 @@ The difference and advantage of the U-Net model from other CNN (Convolutional Ne
 
 
 ![206864660-8602de60-5f69-4ea8-8673-3921dd82a544](https://user-images.githubusercontent.com/120099096/215529763-a05b7a79-3198-44ff-b33e-3c11591f0a98.png)
+![206866267-d3500599-80b6-47db-9668-bf13cc30745c](https://user-images.githubusercontent.com/120099096/215529935-abe286a5-d2be-41ec-a17c-5a41e855032e.png)
+![206866319-29a4ddf0-30dc-42ab-bba1-15410fe4cbc7](https://user-images.githubusercontent.com/120099096/215529999-4345f2a9-5c49-4cff-a58d-e29917017b82.png)
 
 
 ### To Be Continued...
