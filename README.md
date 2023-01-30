@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation-with-UNet-using-AI
+# Brain Tumor Segmentation with U-Net Using AI
 
 Manual segmentation of a brain tumor from MRI images is a very time consuming method and performance is highly dependent on the experience of the physician. Therefore, automatic brain tumor segmentation from MRI images using deep learning methods enables efficient tumor detection. In this study, a CNN-based U-Net model was used for brain tumor segmentation.
 
