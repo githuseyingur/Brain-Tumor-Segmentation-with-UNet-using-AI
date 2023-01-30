@@ -26,6 +26,8 @@ To talk about the U-Net model; The created U-Net model consists of two parts: Co
 The difference and advantage of the U-Net model from other CNN (Convolutional Neural Network) architectures is that feature maps are transferred from each layer in the compression path to each layer in the expansion path by establishing a horizontal connection. This process is called Copy and Corp. With this process, features lost by the size reduction process are regained on the Expansion path. In the U-Net architecture, features are not lost through linked copying of feature maps.
 
 
+![206864660-8602de60-5f69-4ea8-8673-3921dd82a544](https://user-images.githubusercontent.com/120099096/215529763-a05b7a79-3198-44ff-b33e-3c11591f0a98.png)
+
 
 ### To Be Continued...
 
