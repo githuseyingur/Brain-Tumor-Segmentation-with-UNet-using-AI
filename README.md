@@ -61,5 +61,6 @@ Upon examination of the results, very similar results have been obtained to the 
 
 Examining the results, a success rate of 95.8% for full tumor and 85.7% for validation data was reached using the Dice Coef metric. For the tumor-free area, success rates of 96.9% for training and 80.22% for validation data were achieved. For the expanding tumor area, success rates of 93.2% for training and 78.4% for validation data were reached.<br /><br />
 
-![AccuracyTable](https://user-images.githubusercontent.com/120099096/206866196-4b5068d1-47e8-4309-85de-ff124c34f446.png)
+![206866196-4b5068d1-47e8-4309-85de-ff124c34f446](https://user-images.githubusercontent.com/120099096/215537831-ba869a05-4e8c-4ba5-8ba5-fb73504feea6.png)
+
 
